@@ -8,7 +8,7 @@ body{
     background-color: rgb(35, 44, 41);
     border-bottom: 3px solid rgb(168, 71, 168);
     min-height: 38px;
-    margin: 0 auto;
+    /* margin: 0 auto; */
 }
 #menu li{
     float: left;
