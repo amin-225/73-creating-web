@@ -2,19 +2,22 @@
 body{
     background-color: gray;
 }
+#wrapper{
+    border-bottom: 2px solid gray;
+    height: 46px;
+    border-bottom: 2px solid rgb(168, 71, 168);
+}
 #menu{
     padding: 0;
-    width: 960px;
+    width: 930px;
     background-color: rgb(35, 44, 41);
-    border-bottom: 3px solid rgb(168, 71, 168);
     min-height: 38px;
-    /* margin: 0 auto; */
 }
 #menu li{
     float: left;
     list-style-type: none;
-    border-right: 2px solid rgb(0, 0, 0);
-    border-left: 2px solid rgb(58, 47, 47);
+    border-right: 2px solid rgb(58, 47, 47);
+    border-left: 2px solid rgb(48, 38, 38);
     position: relative;
     
 }
